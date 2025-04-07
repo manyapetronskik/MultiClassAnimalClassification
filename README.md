@@ -7,6 +7,6 @@ Today I worked on Dataset Acquisition and We sourced it From Kaggle https://www.
 The Week 2 of our AICTE Internship powered by Edunet foundation.\
 We are Doing our Work on Multi Class Animal Classification.\
 Today I worked on Data Preprocessing and Data Augmentation.\
-We Divided Our Dataset into Training and Validation Dataset.\
+We Divided Our Dataset into Training and Validation Dataset.
 
 # MultiClassAnimalClassification
