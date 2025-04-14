@@ -17,5 +17,8 @@ This is Week 3 of Our AICTE Internship powered by Edunet foundation.\
 We are Doing our Work on Multi Class Animal Classification.\
 We Worked on building a MobileNetV2 base model, and Saving it as a Pre-trained model.\
 We got an Accuracy of 84%.\
-Further We Used that Pre-trained Model To Predict the Class.
+Further We Used that Pre-trained Model To Predict the Class.\
+This is the Pretrained Model. 
+
+Link: https://drive.google.com/file/d/1vrXKCJlOSZhhGBgJJSZnCyepAAvIq3GQ/view?usp=drive_link
 
